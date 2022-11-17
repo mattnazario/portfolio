@@ -1,3 +1,36 @@
 body{
-    background-color: red;
+    background-color:bisque;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+header{
+    text-align:center;
+    background-color: darkgray;
+    width: 50%;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+header img{
+    border-radius: 50%;
+}
+
+
+
+main{
+    text-align: center;
+    background-color: darkgray;
+    width: 50%;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+main ul{
+    display: inline-flex;
+    text-decoration: none;
+    list-style: none;
+
+}
+main li{
+    /* padding-left: 25px; */
 }
